@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:Rengod95/ExpoSubRepo-OutboundLib.git
+	branch = main
+	commit = 08841c7eb6d1815133afb1e42ce5b765552f1d6e
+	parent = d69529c1145568190d473242a389e34b61892db8
+	method = merge
+	cmdver = 0.4.9
